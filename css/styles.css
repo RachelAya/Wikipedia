@@ -1,0 +1,14 @@
+img{
+  float: right;
+}
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+.jumbotron{
+  background-color: lightblue;
+}
+h5{
+  font-size: 20px;
+}
